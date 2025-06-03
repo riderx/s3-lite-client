@@ -1,5 +1,5 @@
 {
-  "name": "@bradenmacdonald/s3-lite-client",
+  "name": "@capgo/s3-lite-client",
   "version": "0.9.0",
   "license": "MIT",
   "exports": "./mod.ts",
